@@ -6,3 +6,5 @@ Advances of Science and Technology. Cham: Springer International Publishing, 202
 github: https://github.com/Mesay-Gemeda/Ginger-disease-detection-using-CNN-and-pertrained-model.git
 
 Retinal dataset taken from kaggle titled as: Retinal OCT Images (optical coherence tomography)
+
+The folder crack segmentation contains a YOLO model trained to segment the cracks in a concrete.
